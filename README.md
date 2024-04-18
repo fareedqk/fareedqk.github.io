@@ -1,5 +1,6 @@
 # Fareed's [Portfolio](https://fareedqk.github.io)
 
+Used from the al-folio template mentioned below.
 
 # al-folio
 
