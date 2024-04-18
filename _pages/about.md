@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: [<a href='github.com/fareedqk'>Code</a> <a href='linkedin.com/in/fareedcodes'>Network</a> Fanatic]
+subtitle: [<a href='https://github.com/fareedqk'>Code</a> <a href='https://linkedin.com/in/fareedcodes'>Network</a> Fanatic]
 
 profile:
   align: right
