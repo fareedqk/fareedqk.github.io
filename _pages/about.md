@@ -19,4 +19,6 @@ Hello, Fareed this side. I love bringing practical innovation to simplify everyd
 
 With a solid grip on Flutter framework, I have developed a wide range of mobile applications for both iOS and Android platforms, delivering intuitive user experiences and robust functionality. I am always eager to take on new challenges and collaborate on exciting projects in the mobile app development and AI industry.
 
-📇 - Feel free me to contact me if any inquiries at <fareedqk@gmail.com>
+✉️ - Feel free me to contact me if any inquiries at <fareedqk@gmail.com>
+
+🔬 - You can find me on [Kaggle](https://www.kaggle.com/fareedcodes). Let's collaborate on projects, participate in competitions, or exchange knowledge within the Kaggle community.
