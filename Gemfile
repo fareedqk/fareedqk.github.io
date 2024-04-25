@@ -19,7 +19,9 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'github-pages'
+    gem 'faraday', '~> 2.7', '>= 2.7.11'
+    gem "github-pages", group: :jekyll_plugins
+    gem "jekyll-include-cache", group: :jekyll_plugins
 end
 group :other_plugins do
     gem 'css_parser'
