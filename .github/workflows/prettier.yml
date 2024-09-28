@@ -1,5 +1,3 @@
-name: Prettier code formatter
-
 - name: Prettier Check 🔎
   id: prettier
   run: |
