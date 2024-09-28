@@ -76,4 +76,3 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
-
