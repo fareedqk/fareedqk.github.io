@@ -1,6 +1,3 @@
-
-
-
 {
   "basics": {
     "name": "Fareed Khan",
@@ -9,7 +6,6 @@
     "email": "fareedqk@gmail.com",
     "Phone": "+92 333 333 4202",
     "url": "https://fareedqk.github.io"
-    
   },
   "work": [
     {
@@ -49,70 +45,34 @@
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "JavaScript",
-        "Dart"
-      ]
+      "keywords": ["Python", "JavaScript", "Dart"]
     },
     {
       "name": "ML Libraries",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Tensorflow",
-        "Keras",
-        "NumPy",
-        "Pandas",
-        "Matplotlib",
-        "Sci-kit Learn",
-        "OpenCV"
-      ]
+      "keywords": ["Tensorflow", "Keras", "NumPy", "Pandas", "Matplotlib", "Sci-kit Learn", "OpenCV"]
     },
     {
       "name": "Web Development",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "React",
-        "Tailwind CSS",
-        "Flask",  
-        "Laravel"
-      ]
+      "keywords": ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "Tailwind CSS", "Flask", "Laravel"]
     },
     {
       "name": "Mobile Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Flutter",
-        "SwiftUI"
-      ]
+      "keywords": ["Flutter", "SwiftUI"]
     },
     {
       "name": "Database Management",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MySQL",
-        "Firebase",
-        "MongoDB",
-        "Supabase"
-      ]
+      "keywords": ["MySQL", "Firebase", "MongoDB", "Supabase"]
     },
     {
       "name": "Tools & Platforms",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "Docker",
-        "Postman",
-        "Jupyter Notebook",
-        "VS Code"
-      ]
+      "keywords": ["Git", "GitHub", "Docker", "Postman", "Jupyter Notebook", "VS Code"]
     }
   ]
 }
