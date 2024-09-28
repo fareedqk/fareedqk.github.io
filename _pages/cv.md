@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: my_resume.pdf
+cv_pdf: fareed_khan_CV.pdf
 description: 
 toc:
   sidebar: left
