@@ -4,7 +4,7 @@ title: Gynae Genius
 category: Hackathons
 importance: 2
 description: A women's health support system using RAG (Retrieval-Augmented Generation) and Cohere's NLP API.
-img: /assets/img/gynae-genius-prev.png 
+img: /assets/img/gynae-genius-prev.png
 ---
 
 Gynae Genius is an intelligent system designed to provide personalized support for women's health using the latest advancements in AI. It utilizes **LangFlow** for workflow orchestration and **Retrieval-Augmented Generation (RAG)** to enhance the accuracy and relevancy of the responses. By integrating **Cohere's NLP API**, Gynae Genius delivers precise, context-aware health information and advice.
