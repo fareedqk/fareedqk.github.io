@@ -1,46 +1,118 @@
+
+
+
 {
   "basics": {
     "name": "Fareed Khan",
     "label": "Software Engineer",
     "image": "",
     "email": "fareedqk@gmail.com",
-    "url": "https://fareedqk.github.io",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "Phone": "+92 333 333 4202",
+    "url": "https://fareedqk.github.io"
+    
   },
+  "work": [
+    {
+      "company": "CodeAlpha",
+      "position": "Machine Learning Intern",
+      "startDate": "06/24",
+      "endDate": "09/24",
+      "summary": "Developed and fine-tuned models for image recognition, recommendation systems, and automated essay scoring driving accuracy and efficiency."
+    },
+    {
+      "company": "Beta Byte Technology",
+      "position": "Flutter Developer Intern",
+      "startDate": "07/23",
+      "endDate": "10/23",
+      "summary": "Collaborated on integrating AI features into applications, including but not limited to image recognition and recommendation systems, elevating the app’s intelligence and usability."
+    }
+  ],
   "education": [
     {
-      "institution": "Abasyn University",
+      "institution": "Abasyn University, Peshawar",
       "location": "Pakistan",
       "area": "Computer Science",
       "studyType": "Bachelors",
-      "score": "3.34"
+      "score": "3.36"
     }
   ],
-  "certificates": [
+  "volunteer": [
     {
-      "name": "Artificial Intelligence",
-      "date": "2024-01-01",
-      "issuer": "KPITB",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "iCodeGuru",
+      "position": "Moderator & Trainer",
+      "startDate": "06/24",
+      "endDate": "Present",
+      "summary": "Taught Python, Data Structures, and Algorithms for underprivileged students of Pakistan, and also Mentored DET aspirants, guiding test strategies and language improvement techniques."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "Dart"
+      ]
     },
     {
-      "name": "Flutter App Development",
-      "date": "2022-06-01",
-      "issuer": "Beta Technology",
-      "icon": "fa-solid fa-tag"
+      "name": "ML Libraries",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tensorflow",
+        "Keras",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Sci-kit Learn",
+        "OpenCV"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "React",
+        "Tailwind CSS",
+        "Flask",  
+        "Laravel"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Flutter",
+        "SwiftUI"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MySQL",
+        "Firebase",
+        "MongoDB",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Postman",
+        "Jupyter Notebook",
+        "VS Code"
+      ]
     }
   ]
 }
