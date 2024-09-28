@@ -19,9 +19,11 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'sassc', '~> 2.4'
 end
+
 group :other_plugins do
     gem 'css_parser'
-    gem 'feedjira'
+    gem 'feedjira', '~> 3.2'
     gem 'httparty'
 end
