@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explore my growing portfolio of impressive projects, each demonstrating creativity and skill.
 nav: true
 nav_order: 3
-display_categories: [Work]
+display_categories: [Hackathon Projects, Final Year Research]
 horizontal: false
 ---
 
@@ -19,6 +19,7 @@ horizontal: false
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
