@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explore my growing portfolio of impressive projects, each demonstrating creativity and skill.
 nav: true
 nav_order: 3
-display_categories: [Hackathon Projects, Final Year Research]
+display_categories: [Hackathons, Final Year Research]
 horizontal: false
 ---
 
