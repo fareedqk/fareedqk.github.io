@@ -10,19 +10,28 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, Fareed this side. I love bringing practical innovation to simplify everyday tasks. I am a final year undergraduate student. My research focuses on connecting the realms of visual and textual information, particularly through selfsupervised learning techniques.
+Hello, Fareed this side. I love bringing practical innovation to simplify everyday tasks. I am a recent Computer Science graduate with a focus on machine learning and deep learning. My research explores the intersection of visual and textual information, with a particular interest in **self-supervised learning techniques**.
 
-I am a recent Computer Science graduate with a focus on machine learning and deep learning. Through my academic projects, including a facial expression recognition system, I have developed a strong foundation in data analysis and algorithm development. I am proficient in Python and experienced with libraries such as TensorFlow, Keras, and PyTorch.
+During my academic journey, I developed a **facial expression recognition system** and participated in various research and development projects. I have a strong foundation in **data analysis** and **algorithm development**, with proficiency in Python and experience with libraries like **TensorFlow**, **Keras**, and **PyTorch**.
 
-I am eager to apply my knowledge to meaningful projects in the AI field and am committed to continuous learning. I work well in teams and can effectively communicate complex concepts.
+## **Research Interests**:
 
-My goal is to contribute to innovative solutions that address real-world challenges in technology.
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Multimodal Learning
 
-✉️ - Feel free me to contact me if any inquiries at <fareedqk@gmail.com>
+## **Future Goals**:
 
-🔬 - You can find my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/fareedqk) and [Leetcode](https://leetcode.com/u/Fareedqk/). Let's collaborate on projects, participate in competitions, or exchange knowledge within the tech community.
+I am driven to pursue **graduate studies** in Artificial Intelligence, where I seek to push the frontiers of research and make a lasting impact in the field. My focus is on continuous learning and meaningful collaboration with experts to advance AI research and its real-world applications.
+
+✉️ - Feel free to contact me with any inquiries at <fareedqk@gmail.com>
+
+🔬 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/fareedqk)
+
+---
